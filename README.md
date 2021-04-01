@@ -1,2 +1,2 @@
-# Imers-o-Dev---Javascript
+# Imersao Dev Javascript
 Repositório da imersão dev Alura 2021 - Javascript
